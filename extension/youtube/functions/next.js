@@ -1,0 +1,1 @@
+document.getElementsByClassName('ytp-next-button').item(0).click()
