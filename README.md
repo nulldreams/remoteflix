@@ -1,4 +1,4 @@
-# remote-netflix
+# Remoteflix
 > Remote control for netflix website 🍿
 
 # Why?
